@@ -1,6 +1,6 @@
 baseURL = 'https://yumin.ai/'
 languageCode = 'en-us'
-title = '我的博客'
+title = 'AI Craft'
 theme = 'PaperMod'
 timeZone               = "America/Los_Angeles"
 
@@ -11,19 +11,20 @@ timeZone               = "America/Los_Angeles"
 
 tags = [
   "ai",
-  "人工智能"
+  "人工智能",
+  "llm"
 ]
 
 [params]
     env = "production"
-    description = "个人博客"
+    description = "专注于发布ai相关的内容"
     DateFormat =  "Monday, January 2, 2006"
     ShowAllPagesInArchive = true
     ShowFullTextinRSS = true
 
   
     [params.homeInfoParams]
-        title = "我的博客"
+        title = "AI Craft"
         content = """
 专注于发布ai相关的内容
 有事请联系yumin#yuminmail.com （请将 # 替换为 @）
