@@ -25,6 +25,7 @@ tags = [
     [params.homeInfoParams]
         title = "我的博客"
         content = """
+专注于发布ai相关的内容
 有事请联系yumin#yuminmail.com （请将 # 替换为 @）
 
 """
