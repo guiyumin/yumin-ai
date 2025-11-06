@@ -1,0 +1,30 @@
+baseURL = 'https://guiyumin.com/'
+languageCode = 'en-us'
+title = '我的博客'
+theme = 'PaperMod'
+timeZone               = "America/Los_Angeles"
+
+[pagination]
+  disableAliases = false
+  pagerSize = 20
+ 
+
+tags = [
+  "ai",
+  "人工智能"
+]
+
+[params]
+    env = "production"
+    description = "个人博客"
+    DateFormat =  "Monday, January 2, 2006"
+    ShowAllPagesInArchive = true
+    ShowFullTextinRSS = true
+
+  
+    [params.homeInfoParams]
+        title = "我的博客"
+        content = """
+有事请联系yumin#yuminmail.com （请将 # 替换为 @）
+
+"""
