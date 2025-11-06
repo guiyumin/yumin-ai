@@ -1,4 +1,4 @@
-baseURL = 'https://yumin.ai/'
+baseURL = 'https://craft.yumin.ai/'
 languageCode = 'en-us'
 title = 'AI Craft'
 theme = 'PaperMod'
